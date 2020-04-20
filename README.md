@@ -58,5 +58,5 @@ You can run all the tests for an exercise by entering the following in your
 terminal:
 
 ```sh
-$ pytest test
+$ pytest
 ```
